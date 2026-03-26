@@ -50,7 +50,7 @@ period while Brent crude spiked 341% at peak war intensity.
 dual axis charts, calculated fields, % change analysis, 
 event severity colour gradients
 
-🔗 [View Dashboard](https://public.tableau.com/app/profile/jay.tare/viz/ThisdashboardanalyseshowPersianGulfconflicteventsimpactedBrentcrudeoilpricesmarketfearVIXandgeopoliticalriskGPRbetween20192026_DatasourcesKaggleoilgeopoliticsdataset_/PersianGulfConflictsMarketImpact)
+🔗 [View Dashboard](https://public.tableau.com/app/profile/jay.tare/viz/persian-gulf-market-impact/PersianGulfConflictsMarketImpact)
 
 🔗 [View Project](https://github.com/jaytare/persian-gulf-market-impact)
 
